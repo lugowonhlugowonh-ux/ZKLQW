@@ -17,7 +17,7 @@ StarterGui:SetCore("SendNotification", {
 task.wait(8)
 StarterGui:SetCore("SendNotification", {
     Title = "❗",
-    Text = "leaked by king vyylora",
+    Text = "leaked by dark hub",
     Duration = 8, -- seconds the notification stays on screen
     Button1 = "Got it"
 })
@@ -78,7 +78,7 @@ if LPH_OBFUSCATED == nil then
     end
     LRM_IsUserPremium = false
     LRM_LinkedDiscordID = "0"
-    LRM_ScriptName = "Gesure"
+    LRM_ScriptName = "Dark hub"
     LRM_TotalExecutions = 0
     LRM_SecondsLeft = math.huge
     LRM_UserNote = "Developer";
